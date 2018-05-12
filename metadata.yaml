@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/510
     wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35216#Historic-Handbook-of-the-Northern-Tour
 gutenberg_issued: '2011-02-08'
 gutenberg_type: Text
 identifiers:
